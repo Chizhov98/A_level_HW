@@ -1,4 +1,4 @@
-package ua.cizhov.hw2;
+package ua.chizhov.hw2;
 
 import java.util.Scanner;
 
