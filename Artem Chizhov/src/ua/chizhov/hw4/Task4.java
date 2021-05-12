@@ -9,7 +9,7 @@ public class Task4 {
     }
 
     public static int[] initializeIntArray(int length) {
-        int[] array = new int[length];
+        int[] array  = new int[length];
         Random random = new Random();
         for (int i = 0; i < array.length; i++) {
             array[i] = random.nextInt();
